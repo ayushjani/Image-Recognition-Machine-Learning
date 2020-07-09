@@ -1,0 +1,6 @@
+For the code to run, make sure to install the required dependancies for your conda environment by copy/pasting the lines below
+
+conda install scikit-learn
+conda install matplotlib
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+
